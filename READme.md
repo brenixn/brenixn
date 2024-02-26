@@ -7,9 +7,11 @@
   </a>
 </div>
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas.
+Graduando em Análise e Desenvolvimento de Sistemas.
 
--🧑‍💻 Estudando tecnologias de Desenvolvimento Back-End
+-Foco em tecnologias de desenvolvimento Backend, como Java e Spring Boot
+-Habilidades em banco de dados relacionais com MySQL e PostgreSQL, bem como em controle de versionamento de código com Git
+-Conhecimento em ferramentas de gestão de projeto e produtos, como GitHub e Jira.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
